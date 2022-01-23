@@ -1,0 +1,44 @@
+body,
+html{
+	height: 100%;
+	width: 100%;
+	font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    background: url(ww.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	
+	margin: 0px 50px 0px 80px;
+}
+h3{
+	margin: 250px 00px 0px 180px;
+
+}
+hr {
+    margin: 20px auto;
+    color: #472DAA;
+    border: 3px solid #472DAA;
+    max-width: 65px;
+    opacity: 1;  
+}
+.buffer{
+	height:10rem;
+}
+.btn{
+	font-weight: 400;
+	border-radius: 400px
+}
+.btn-dark {
+	background-color:#226EDE;
+}
+.btn-dark:hover{
+	background-color: #472DAA;
+	border-width: 3px
+}
+.btn-xl{
+	padding: 1rem 2rem 0rem 2rem;
+}
