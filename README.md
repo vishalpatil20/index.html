@@ -1,2 +1,2 @@
 # index.html
-basic landing page
+Basic landing page
